@@ -1,5 +1,5 @@
 .para1{
-	color:#FFFF00;
+	color:#FF00FF;
 	font-size:1.5em;
 }
 p,li {
@@ -10,6 +10,11 @@ h1{
 	font-family:"Arial Black";
 	font-size:5em;
 	text-align:center;
+}
+h2{
+	font-family:"Arial Black";
+	font-size:2em;
+	text-indent:1em;
 }
 body{
 	background-color: #AAAAAA;
