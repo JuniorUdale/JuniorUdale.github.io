@@ -1,9 +1,22 @@
 .para1{
-	color:#FFFF00
+	color:#FFFF00;
+	font-size:1.5em;
 }
-*{
-	font-family:tahoma
+p,li {
+	font-family:"Tahoma";
+	font-size:1.25em;
+}
+h1{
+	font-family:"Arial Black";
+	font-size:5em;
+	text-align:center;
 }
 body{
-	background-color: #30AA30
+	background-color: #AAAAAA;
+}
+.maincontent{
+  margin: auto;
+  width: 50%;
+  border: 1px solid #444444;
+  padding: 10px;
 }
